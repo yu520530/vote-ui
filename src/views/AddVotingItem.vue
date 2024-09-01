@@ -39,7 +39,7 @@
           name: this.name,
         };
 
-        const baseURL = "https://9264-2001-b400-e7af-60b2-c48c-4bbe-1f0a-5c.ngrok-free.app";
+        const baseURL= "localhost:8080";
 
         axios({
           method: 'post',
