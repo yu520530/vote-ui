@@ -53,7 +53,7 @@
           console.log('success')
           sweetalert({
             text: 'send success',
-            icon: 'Success',
+            icon: 'success',
           })
         })
         .catch((err) => {
